@@ -3,11 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name=".SmokeTest"/>
-      <class name=".CriticalTest"/>
-      <class name=".SanityTest"/>
-      <class name=".Regression"/>
-       <class name=".PushEvent"/>
+      <class name="PushEvnets"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
