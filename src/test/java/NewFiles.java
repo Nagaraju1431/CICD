@@ -13,4 +13,10 @@ public class NewFiles {
 
 		System.out.println("New Video File");
 	}
+
+	@Test
+	public void newAudioFile() {
+
+		System.out.println("New Audio File");
+	}
 }
